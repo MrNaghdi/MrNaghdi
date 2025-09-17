@@ -47,16 +47,16 @@
   <!-- ردیف ۳ -->
   <img src="https://img.shields.io/badge/Telegram_Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Responsive_Web-00A3E0?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
 
 
 ---
