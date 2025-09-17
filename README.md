@@ -31,7 +31,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MrNaghdi&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=MrNaghdi&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ---
