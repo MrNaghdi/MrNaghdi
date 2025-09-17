@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <b>MrNaghdi</b></h1>
+<h1 align="center">👋 Hi, I'm <bold>MrNaghdi</bold></h1>
 
 <p align="center">
  <b>💻 Full-Stack Developer | Solidity & Blockchain | Telegram Bot Developer</b>
