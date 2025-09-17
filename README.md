@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hi, I'm MrNaghdi</h1>
+<h1 align="center">👋 Hi, I'm <b>MrNaghdi</b></h1>
 
 <p align="center">
- 💻 Full-Stack Developer | Solidity & Blockchain | Telegram Bot Developer
+ <b>💻 Full-Stack Developer | Solidity & Blockchain | Telegram Bot Developer</b>
 
-🌐 Designing **sleek, modern, and fully responsive front-ends** using <b>Vue.js</b>, <b>React</b>, <b>TailwindCSS</b>, <b>Bootstrap</b>, <b>HTML5</b>, <b>CSS3</b>, and <b>JavaScript (ES6+)</b>
+🌐 Designing **sleek, modern, and fully responsive front-ends** using <b>Vue.js</b>, <b>React</b>, <b>TailwindCSS</b>, <b>Bootstrap</b>, <b>HTML5</b>, <b>CSS3</b>, and <b>JavaScript</b>
 
 🔒 Developing **scalable, high-performance backends** with <b>Node.js</b> & <b>Express.js</b> and building **RESTful APIs**
 
