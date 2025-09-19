@@ -45,6 +45,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" width="48" height="48" alt="Hardhat"/>
 
    <img src="https://images.ctfassets.net/clixtyxoaeas/4rnpEzy1ATWRKVBOLxZ1Fm/a74dc1eed36d23d7ea6030383a4d5163/MetaMask-icon-fox.svg" width="48" height="48" alt="Metamask"/>
+   
+</p>
+<!-- Telegram Bot -->
+<p align="center">
+  <img src="https://cdn.prod.website-files.com/64c7ccf18389fcc8fd4af160/681871209dfb1273fc7e05e2_bot-telegram.svg" width="48" height="48" alt="Telegram Bot"/>
+  <br/>
+  <b>Telegram Bot</b>
 </p>
 
 
