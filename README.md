@@ -33,10 +33,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-<!-- Blockchain & Bots -->
+<!-- Blockchain -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
 </p>
 
 
