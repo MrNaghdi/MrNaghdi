@@ -36,10 +36,11 @@
 <!-- Blockchain -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=solidity" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="48" height="48" alt="Ethereum"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="48" height="48" alt="Ethereum"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg" width="48" height="48" alt="Web3.js"/>
   <img src="https://img.shields.io/badge/Smart_Contracts-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
 </p>
+
 
 
 
