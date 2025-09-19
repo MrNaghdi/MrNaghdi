@@ -20,23 +20,25 @@
 
 <!-- Frontend -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
 </p>
 
-<!-- Backend -->
+<!-- Frontend Frameworks -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue" />
 </p>
 
-<!-- Blockchain -->
+<!-- Backend & Databases -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+<!-- Blockchain & Bots -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=solidity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="48" height="48" />
 </p>
 
-<!-- Tools & Others -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=telegram,git,github,c,cpp" />
-</p>
 
 
 
