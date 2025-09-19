@@ -40,12 +40,12 @@
   
   <!-- Ethereum -->
   <img src="https://raw.githubusercontent.com/atomiclabs/cryptocurrency-icons/master/128/color/eth.png" width="48" height="48" alt="Ethereum"/>
-  
-  <!-- Blockchain -->
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/blockchain.svg" width="48" height="48" alt="Blockchain"/>
-  
-  <!-- Web3.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg" width="48" height="48" alt="Web3.js"/>
+ 
+  <!-- Hardhat -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" width="48" height="48" alt="Hardhat"/>
+
+  <!-- Metamask -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metamask/metamask-original.svg" width="48" height="48" alt="Metamask"/>
 </p>
 
 
