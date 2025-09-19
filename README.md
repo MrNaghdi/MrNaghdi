@@ -18,34 +18,26 @@
 ## 🛠️ Tech Stack
 
 
+<!-- Frontend -->
 <p align="center">
-  <!-- Row 1 -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwind" />
 </p>
 
+<!-- Backend -->
 <p align="center">
-  <!-- Row 2 -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
+<!-- Blockchain -->
 <p align="center">
-  <!-- Row 3 -->
-  <img src="https://img.shields.io/badge/Telegram_Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responsive_Web-00A3E0?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=solidity" />
 </p>
 
+<!-- Tools & Others -->
 <p align="center">
-  <!-- Row 4 -->
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=telegram,git,github,c,cpp" />
 </p>
+
 
 
 ---
