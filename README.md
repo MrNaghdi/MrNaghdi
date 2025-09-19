@@ -70,12 +70,12 @@
 <p align="center">
   <!-- Telegram -->
   <a href="https://t.me/MrNaghdi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" height="40" alt="Telegram"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" width="40" height="40" alt="Telegram"/>
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/Mr__Naghdi/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" width="40" height="40" alt="Instagram"/>
   </a>
 
   <!-- Email -->
