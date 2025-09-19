@@ -66,31 +66,29 @@
 ---
 
 ## 🤝 Connect with Me
-
 <p align="center">
   <!-- Telegram -->
   <a href="https://t.me/MrNaghdi">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" width="40" height="40" alt="Telegram"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" width="40" height="40" alt="Telegram" style="margin: 0 10px;"/>
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/Mr__Naghdi/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" width="40" height="40" alt="Instagram"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" width="40" height="40" alt="Instagram" style="margin: 0 10px;"/>
   </a>
 
   <!-- Email -->
   <a href="mailto:MrNaghdi8@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email" style="margin: 0 10px;"/>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/MrNaghdi/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" style="margin: 0 10px;"/>
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/MrNaghdi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" width="40" height="40" alt="GitHub" style="margin: 0 10px;"/>
   </a>
 </p>
-
