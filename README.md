@@ -35,9 +35,16 @@
 
 <!-- Blockchain -->
 <p align="center">
+  <!-- Solidity -->
   <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="48" height="48" alt="Ethereum"/>
-  <img src="https://img.icons8.com/color/48/000000/blockchain.png" width="48" height="48" alt="Blockchain"/>
+  
+  <!-- Ethereum -->
+  <img src="https://raw.githubusercontent.com/atomiclabs/cryptocurrency-icons/master/128/color/eth.png" width="48" height="48" alt="Ethereum"/>
+  
+  <!-- Blockchain -->
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/blockchain.svg" width="48" height="48" alt="Blockchain"/>
+  
+  <!-- Web3.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg" width="48" height="48" alt="Web3.js"/>
 </p>
 
