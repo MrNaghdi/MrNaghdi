@@ -68,7 +68,29 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://t.me/MrNaghdi"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
- <a href="https://www.instagram.com/Mr__Naghdi/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:MrNaghdi8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- Telegram -->
+  <a href="https://t.me/MrNaghdi">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" height="40" alt="Telegram"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/Mr__Naghdi/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:MrNaghdi8@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/MrNaghdi/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/MrNaghdi">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
 </p>
+
