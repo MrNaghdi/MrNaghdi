@@ -44,8 +44,7 @@
   <!-- Hardhat -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" width="48" height="48" alt="Hardhat"/>
 
-  <!-- Metamask -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metamask/metamask-original.svg" width="48" height="48" alt="Metamask"/>
+   <img src="https://img.shields.io/badge/Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" width="48" height="48" alt="Metamask"/>
 </p>
 
 
