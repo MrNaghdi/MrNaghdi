@@ -28,7 +28,7 @@
 
 <!-- Backend & Databases -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
 </p>
 
 
