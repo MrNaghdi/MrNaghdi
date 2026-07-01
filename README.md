@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Naghdi</h1>
+<h1 align="center">Hi 👋, I'm Erfan Naghdi Moti</h1>
 
 <h3 align="center">
 Backend Developer • Node.js • DevOps Enthusiast
