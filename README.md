@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erfan Naghdi Moti</h1>
 
 <h3 align="center">
-Backend Developer • Node.js • DevOps Enthusiast
+Backend Developer • Node.js • learning DevOps
 </h3>
 
 <p align="center">
@@ -37,7 +37,7 @@ Currently, I'm developing a production-ready **Online Exam Platform** powered by
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
 ### Databases
@@ -76,18 +76,6 @@ A scalable backend platform built with **Node.js**, **Express**, **MongoDB**, an
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrNaghdi&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNaghdi&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 # Connect With Me
 
 <p align="center">
@@ -107,13 +95,5 @@ A scalable backend platform built with **Node.js**, **Express**, **MongoDB**, an
 <a href="mailto:MrNaghdi8@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MrNaghdi&style=for-the-badge&color=0e75b6"/>
 
 </p>
