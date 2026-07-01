@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erfan Naghdi Moti</h1>
 
 <h3 align="center">
-Backend Developer • Node.js • learning DevOps
+Backend Developer • Node.js • Learning DevOps
 </h3>
 
 <p align="center">
