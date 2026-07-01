@@ -1,90 +1,119 @@
-<h1 align="center">👋 Hi, I'm MrNaghdi</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Naghdi</h1>
+
+<h3 align="center">
+Backend Developer • Node.js • DevOps Enthusiast
+</h3>
 
 <p align="center">
-  <b>Backend Developer | DevOps Enthusiast</b>
+Building scalable backend systems with clean architecture.
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# About Me
 
-Backend developer specializing in **Node.js** with expertise in Express, RESTful API design, Middleware, Authentication & Authorization (JWT, RBAC), Aggregation Pipeline, and MVC architecture. Experienced with both **MongoDB** and **PostgreSQL**.
+I'm a Backend Developer specializing in **Node.js** and **Express.js**, passionate about designing scalable, maintainable, and high-performance applications.
 
-Currently building a comprehensive online exam platform featuring payment gateway, chat & consultation system, exam management, weekly planner, notifications, and multi-role user system (Admin, Consultant, Student). The project follows clean, modular architecture for scalability and maintainability.
+My experience includes building RESTful APIs, authentication & authorization systems (JWT & RBAC), real-time applications using WebSockets, advanced MongoDB Aggregation Pipelines, and designing modular MVC architectures.
 
-With a strong backend foundation, I'm actively expanding my knowledge in **DevOps** including Docker, CI/CD, and infrastructure automation. Familiarity with Linux and networking concepts supports my transition into this field. My goal is to grow in microservices architecture and contribute effectively to dynamic, professional engineering teams.
+Currently, I'm developing a production-ready **Online Exam Platform** powered by **Node.js**, **MongoDB**, and **PostgreSQL**, while expanding my expertise in **Docker**, **CI/CD**, Linux, and modern DevOps practices.
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
 ### Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python" />
 </p>
 
 ### Frontend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 </p>
 
-### Backend & Database
+### Backend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Tools & Infrastructure
+### Databases
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,docker" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
----
-
-## 🚀 Featured Project
-
-**Online Exam Platform**
-- Full backend implementation with Node.js, Express, MongoDB & PostgreSQL
-- Aggregation Pipeline for advanced reporting and analytics
-- JWT authentication with role-based access control (RBAC)
-- WebSocket for real-time chat and consultation
-- Modular, clean architecture for long-term maintainability
-
----
-
-## 📊 GitHub Stats
+### DevOps & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrNaghdi&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNaghdi&layout=compact&theme=dark" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=linux,docker,git" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
+# Featured Project
+
+## Online Exam Platform
+
+A scalable backend platform built with **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**.
+
+### Features
+
+- RESTful API Architecture
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- Real-time Chat (WebSocket)
+- Payment Integration
+- Exam Management
+- Weekly Planner
+- Notifications
+- Consultant & Student Portal
+- Aggregation Pipelines for Analytics
+- Clean & Modular Architecture
+
+---
+
+# GitHub Stats
 
 <p align="center">
-  <a href="https://t.me/MrNaghdi">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" width="40" height="40" alt="Telegram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/MrNaghdi/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/MrNaghdi">
-    <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:MrNaghdi8@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrNaghdi&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNaghdi&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/MrNaghdi">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/MrNaghdi/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="https://t.me/MrNaghdi">
+<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45"/>
+</a>
+
+<a href="mailto:MrNaghdi8@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrNaghdi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<img src="https://komarev.com/ghpvc/?username=MrNaghdi&style=for-the-badge&color=0e75b6"/>
+
 </p>
