@@ -5,7 +5,7 @@ Full-Stack Developer • Node.js • NestJS • React • TypeScript
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+Node.js+%26+NestJS;React+%7C+Redux+Toolkit+%7C+React+Query;Building+Scalable+End-to-End+Applications;Clean+Architecture+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Backends+with+NestJS;Crafting+Modern+UIs+with+React;Clean+Architecture+%7C+TypeScript+%7C+PostgreSQL" alt="Typing SVG" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ I'm a **Full-Stack Developer** specializing in **Node.js**, **NestJS**, **React*
   <tr>
     <td align="center"><b>Databases</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,typeorm" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,mysql" />
     </td>
   </tr>
   <tr>
